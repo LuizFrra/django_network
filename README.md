@@ -158,10 +158,10 @@ This is a simple REST API built with Django for managing career-related posts. T
 - Install Poetry for dependency management.
 
 ### Steps
-1Start the project using Docker Compose:
+1.Start the project using Docker Compose:
    ```bash
    docker-compose up -d
    ```
-2Access the application at `http://127.0.0.1:8000`.
+2.Access the application at `http://127.0.0.1:8000`.
 
 ---
